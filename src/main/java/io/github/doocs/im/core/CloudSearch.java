@@ -17,7 +17,7 @@ import java.io.IOException;
  **/
 public class CloudSearch {
     /**
-     * 账号管理服务名
+     * 云端搜索服务名
      */
     public static final String SERVICE_NAME_USER = "user_search";
     public static final String SERVICE_NAME_GROUP = "group_search";
@@ -25,7 +25,7 @@ public class CloudSearch {
     public static final String SERVICE_NAME_IM_OPEN = "im_open_search";
 
     /**
-     * 账号管理相关命令字
+     * 云端搜索相关命令字
      */
     public static final String SEARCH_COMMAND = "search";
     public static final String SET_VISIBILITY_COMMAND = "set_visibility";
